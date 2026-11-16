@@ -14,12 +14,20 @@
 - Pandas
 - OpenPyXL
 
-## Запуск
+# Запуск
+
 1. Установить библиотеки:
    pip install pandas openpyxl
 
-2. Запустить программу:
-   python lesson03.py
+2. Открыть файл lesson3.ipynb в VS Code
+   с расширениями Python и Jupyter.
+
+3. Убедиться, что sale.csv находится
+   в той же папке.
+
+4. Выполнить все ячейки (Run All).
+
+5. Получить файл sales_full_report.xlsx.
 
 ## Результат
 Создаётся Excel-файл с четырьмя листами:
