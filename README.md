@@ -1,2 +1,29 @@
-# python-sales-repor
-Python project for sales data analysis, revenue calculation, and automated Excel reporting using Pandas.
+# Sales Analysis with Python
+
+Учебный проект автоматизации анализа продаж на Python.
+
+## Возможности
+- Загрузка данных из CSV
+- Расчёт выручки по товарам
+- Поиск лидеров продаж
+- Сортировка по выручке и количеству
+- Формирование Excel-отчёта
+
+## Технологии
+- Python
+- Pandas
+- OpenPyXL
+
+## Запуск
+1. Установить библиотеки:
+   pip install pandas openpyxl
+
+2. Запустить программу:
+   python lesson03.py
+
+## Результат
+Создаётся Excel-файл с четырьмя листами:
+- Все продажи
+- Лидеры
+- Итоги
+- Лидеры по количеству
